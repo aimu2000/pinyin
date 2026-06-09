@@ -37152,7 +37152,7 @@ module.exports = {
 "献艺": ["xiàn", "yì"],
 "腺癌": ["xiàn", "ái"],
 "霰弹": ["xiàn", "dàn"],
-"乡长": ["xiāng", "cháng"],
+"乡长": ["xiāng", "zhǎng"],
 "乡城": ["xiāng", "chéng"],
 "乡愁": ["xiāng", "chóu"],
 "乡党": ["xiāng", "dǎng"],

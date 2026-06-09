@@ -14110,7 +14110,7 @@ const phrases_dict: Record<string,string[][]> = {
 "献上": [["xiàn"], ["shàng"]],
 "献血": [["xiàn"], ["xuè"]],
 "霰弹": [["xiàn"], ["dàn"]],
-"乡长": [["xiāng"], ["cháng"]],
+"乡长": [["xiāng"], ["zhǎng"]],
 "乡间": [["xiāng"], ["jiān"]],
 "乡丁": [["xiāng"], ["dīng"]],
 "乡亲": [["xiāng"], ["qīn"]],
